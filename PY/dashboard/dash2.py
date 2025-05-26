@@ -8,6 +8,7 @@ app.layout = html.Div(
     children=[
         html.H1('My Dashboard'),
             dcc.Graph(
+                
                 id="My-Graph",
                 figure={
                     'Data':[
