@@ -3,8 +3,8 @@ using namespace std;
 
 int main() 
 {
-    int number_1;
-    cin >> number_1;
+    int number_1 = 5;
+    // cin >> number_1;
     int temp = number_1;
     
     if(number_1 < 0){
