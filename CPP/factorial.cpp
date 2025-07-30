@@ -26,9 +26,11 @@ void isPositiveInteger(float p_num){
 int main() 
 {
   cout << endl;
-  printf("พิมตัวเลขของคุณ : ");
   float number_1;
+  printf("ใส่ตัวเลขของคุณ ");
+  // scanf("%x",number_1);
   cin >> number_1;
+  // printf("Number 1 is %x\n",&number_1);
 
   isPositiveInteger(number_1);
 
