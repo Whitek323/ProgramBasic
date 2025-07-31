@@ -18,9 +18,9 @@ int factorial(int n){
 }
 int main(){
     cout << "ใส่ค่า n : ";
-    int user_input;
-    cin >> user_input;
+    int x;
+    cin >> x;
 
-    cout << factorial(user_input);
+    cout << factorial(x);
     return 0;
 }

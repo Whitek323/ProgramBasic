@@ -1,0 +1,26 @@
+---
+config:
+  theme: dark
+  layout: dagre
+---
+flowchart TD
+    A(["Start"]) --> B["Input x"]
+    B --> C["x == 0"]
+    C --> n1["yes"] & n4["no"]
+    n1 --> n7(["End"])
+    n4 --> n10["1 &lt; x"]
+    n10 --> n13["yes"] & n16["no"]
+    n13 --> n14@{ label: "<span style=\"padding-left:\">tmp = tmp * (x - 1)</span>" }
+    n14 --> n15["x--"]
+    n15 --> n10
+    n16 --> n17["tmp"]
+    n17 --> n7
+    B@{ shape: lean-r}
+    C@{ shape: diam}
+    n1@{ shape: text}
+    n4@{ shape: text}
+    n10@{ shape: decision}
+    n13@{ shape: text}
+    n16@{ shape: text}
+    n14@{ shape: rect}
+    n17@{ shape: display}
