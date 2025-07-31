@@ -1,0 +1,28 @@
+---
+config:
+  theme: dark
+  layout: dagre
+---
+flowchart TD
+    A(["Start"]) --> B["Input x"]
+    B --> C["Define x, i = 2,display"]
+    C --> n1["i &lt; x"]
+    n1 --> n7["yes"] & n9["no"]
+    n9 --> n10["PrimeNumber"]
+    n8["no"] --> n11["i++"]
+    n12["yes"] --> n13["Not a PrimeNumber"]
+    n10 --> n14(["End"])
+    n13 --> n14
+    n7 --> n15@{ label: "<span style=\"padding-left:\">x%i == 0 || x == 1</span>" }
+    n15 --> n12 & n8
+    n11 --> n1
+    B@{ shape: lean-r}
+    C@{ shape: rect}
+    n1@{ shape: diam}
+    n7@{ shape: text}
+    n9@{ shape: text}
+    n10@{ shape: display}
+    n8@{ shape: text}
+    n12@{ shape: text}
+    n13@{ shape: display}
+    n15@{ shape: diam}
