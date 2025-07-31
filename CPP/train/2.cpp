@@ -2,6 +2,7 @@
 // และใช้ฟังก์ชันนี้ในโปรแกรมที่รับค่า n แล้วแสดงผล square(1) ถึง square(n)
 
 #include <iostream>
+
 using namespace std;
 
 int square(int n){
@@ -10,10 +11,10 @@ int square(int n){
 
 int main(){
     cout << "ใส่ค่า n : ";
-    int user_input;
-    cin >> user_input;
-
-    for(int i = 1;i<=user_input;i++){
+    int x;
+    cin >> x;
+    
+    for(int i = 1;i<=x;i++){
         cout << "square(" << i << ") = "<< square(i) << endl;
     }
     return 0;

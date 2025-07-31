@@ -1,0 +1,18 @@
+---
+config:
+  theme: redux
+  layout: dagre
+---
+flowchart TD
+    A(["Start"]) --> B["Input x"]
+    B --> C["i &lt;= x"]
+    C --> n1["no"] & n4["yes"]
+    n1 --> n7(["End"])
+    n4 --> n10["x*x"]
+    n10 --> n11["i++"]
+    n11 --> C
+    B@{ shape: lean-r}
+    C@{ shape: diam}
+    n1@{ shape: text}
+    n4@{ shape: text}
+    n10@{ shape: display}
