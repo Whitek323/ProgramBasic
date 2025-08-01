@@ -1,12 +1,5 @@
 ---
-config:
-  theme: dark
-  layout: dagre
----
-flowchart TD
-    A(["Start"]) --> B["Input x"]
-    B --> C["Define x, i = 2,display"]
-    C --> n1["i &lt; x"]
+config:-
     n1 --> n7["yes"] & n9["no"]
     n9 --> n10["PrimeNumber"]
     n8["no"] --> n11["i++"]

@@ -1,0 +1,11 @@
+---
+config:
+  theme: dark
+  layout: dagre
+---
+flowchart TD
+    A(["Start"]) --> n1["Input x"]
+    n1 --> n2["to_string(x).length()"]
+    n2 --> n3(["End"])
+    n1@{ shape: lean-r}
+    n2@{ shape: display}

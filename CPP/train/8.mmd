@@ -1,0 +1,25 @@
+---
+config:
+  theme: dark
+  layout: dagre
+---
+flowchart TD
+    A(["Start"]) --> B["Define fiboList = {0,1}"]
+    B --> n1["Input x"]
+    n1 --> n2["n&gt;1"]
+    n2 --> n3["yes"] & n4["no"]
+    n3 --> n5["i &lt; n"]
+    n4 --> n6["fiboList[n]"]
+    n5 --> n7["yes"] & n8["no"]
+    n7 --> n9["fiboList.push_back((fiboList[i-1] + fiboList[i]));"]
+    n8 --> n6
+    n9 --> n6
+    n6 --> n10(["End"])
+    n1@{ shape: lean-r}
+    n2@{ shape: diam}
+    n3@{ shape: text}
+    n4@{ shape: text}
+    n5@{ shape: diam}
+    n6@{ shape: display}
+    n7@{ shape: text}
+    n8@{ shape: text}

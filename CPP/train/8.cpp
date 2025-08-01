@@ -8,13 +8,13 @@
 
 using namespace std;
 int fib(int n){
-    vector<int> uiia = {0,1,1,2};
-    if(n>3){
-        for(int i=3;i<n;i++){
-            uiia.push_back((uiia[i-1] + uiia[i]));
+    vector<int> fiboList = {0,1};
+    if(n>1){
+        for(int i=1;i<n;i++){
+            fiboList.push_back((fiboList[i-1] + fiboList[i]));
         }
     }
-    return uiia[n];
+    return fiboList[n];
 }
 int main(){
     int n;

@@ -6,11 +6,11 @@ using namespace std;
 
 int main(){
     cout << "รับอุณหภูมิ (°C) : ";
-    int user_input;
-    cin >> user_input;
+    int c;
+    cin >> c;
 
-    string temp = user_input > 30 ? "ร้อน" 
-                : user_input < 30 && user_input > 20 
+    string temp = c > 30 ? "ร้อน" 
+                : c < 30 && c > 20 
                 ? "อุ่น" : "เย็น" ;
 
     cout << temp << endl;
