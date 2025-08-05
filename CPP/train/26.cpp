@@ -4,6 +4,7 @@
 #include <cmath>
 
 using namespace std;
+
 int decimalToBinary(string n){
     int x,tmp = 0;
     for(int i=0;i<n.size();i++){

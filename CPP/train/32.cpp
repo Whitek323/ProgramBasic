@@ -4,13 +4,13 @@
 // 1,2,3,4,5
 // No
 #include <iostream>
-#include <vector>
+
 using namespace std;
 
 int main(int argc, char const *argv[]) {
     int arr[] = {2,4,9,5,5};
     string temp = "";
-    int size = sizeof(arr)/sizeof(arr[0]);
+    unsigned int size = sizeof(arr)/sizeof(arr[0]);
 
     for (int i = 0; i < size; i++)
     {

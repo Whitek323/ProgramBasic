@@ -1,0 +1,2701 @@
+0 : Leap year
+1 : Not a Leap Year
+2 : Not a Leap Year
+3 : Not a Leap Year
+4 : Leap year
+5 : Not a Leap Year
+6 : Not a Leap Year
+7 : Not a Leap Year
+8 : Leap year
+9 : Not a Leap Year
+10 : Not a Leap Year
+11 : Not a Leap Year
+
+12 : Leap year
+13 : Not a Leap Year
+14 : Not a Leap Year
+15 : Not a Leap Year
+16 : Leap year
+17 : Not a Leap Year
+18 : Not a Leap Year
+19 : Not a Leap Year
+20 : Leap year
+21 : Not a Leap Year
+22 : Not a Leap Year
+23 : Not a Leap Year
+24 : Leap year
+25 : Not a Leap Year
+26 : Not a Leap Year
+27 : Not a Leap Year
+28 : Leap year
+29 : Not a Leap Year
+30 : Not a Leap Year
+31 : Not a Leap Year
+32 : Leap year
+33 : Not a Leap Year
+34 : Not a Leap Year
+35 : Not a Leap Year
+36 : Leap year
+37 : Not a Leap Year
+38 : Not a Leap Year
+39 : Not a Leap Year
+40 : Leap year
+41 : Not a Leap Year
+42 : Not a Leap Year
+43 : Not a Leap Year
+44 : Leap year
+45 : Not a Leap Year
+46 : Not a Leap Year
+47 : Not a Leap Year
+48 : Leap year
+49 : Not a Leap Year
+50 : Not a Leap Year
+51 : Not a Leap Year
+52 : Leap year
+53 : Not a Leap Year
+54 : Not a Leap Year
+55 : Not a Leap Year
+56 : Leap year
+57 : Not a Leap Year
+58 : Not a Leap Year
+59 : Not a Leap Year
+60 : Leap year
+61 : Not a Leap Year
+62 : Not a Leap Year
+63 : Not a Leap Year
+64 : Leap year
+65 : Not a Leap Year
+66 : Not a Leap Year
+67 : Not a Leap Year
+68 : Leap year
+69 : Not a Leap Year
+70 : Not a Leap Year
+71 : Not a Leap Year
+72 : Leap year
+73 : Not a Leap Year
+74 : Not a Leap Year
+75 : Not a Leap Year
+76 : Leap year
+77 : Not a Leap Year
+78 : Not a Leap Year
+79 : Not a Leap Year
+80 : Leap year
+81 : Not a Leap Year
+82 : Not a Leap Year
+83 : Not a Leap Year
+84 : Leap year
+85 : Not a Leap Year
+86 : Not a Leap Year
+87 : Not a Leap Year
+88 : Leap year
+89 : Not a Leap Year
+90 : Not a Leap Year
+91 : Not a Leap Year
+92 : Leap year
+93 : Not a Leap Year
+94 : Not a Leap Year
+95 : Not a Leap Year
+96 : Leap year
+97 : Not a Leap Year
+98 : Not a Leap Year
+99 : Not a Leap Year
+100 : Not a Leap Year
+101 : Not a Leap Year
+102 : Not a Leap Year
+103 : Not a Leap Year
+104 : Leap year
+105 : Not a Leap Year
+106 : Not a Leap Year
+107 : Not a Leap Year
+108 : Leap year
+109 : Not a Leap Year
+110 : Not a Leap Year
+111 : Not a Leap Year
+112 : Leap year
+113 : Not a Leap Year
+114 : Not a Leap Year
+115 : Not a Leap Year
+116 : Leap year
+117 : Not a Leap Year
+118 : Not a Leap Year
+119 : Not a Leap Year
+120 : Leap year
+121 : Not a Leap Year
+122 : Not a Leap Year
+123 : Not a Leap Year
+124 : Leap year
+125 : Not a Leap Year
+126 : Not a Leap Year
+127 : Not a Leap Year
+128 : Leap year
+129 : Not a Leap Year
+130 : Not a Leap Year
+131 : Not a Leap Year
+132 : Leap year
+133 : Not a Leap Year
+134 : Not a Leap Year
+135 : Not a Leap Year
+136 : Leap year
+137 : Not a Leap Year
+138 : Not a Leap Year
+139 : Not a Leap Year
+140 : Leap year
+141 : Not a Leap Year
+142 : Not a Leap Year
+143 : Not a Leap Year
+144 : Leap year
+145 : Not a Leap Year
+146 : Not a Leap Year
+147 : Not a Leap Year
+148 : Leap year
+149 : Not a Leap Year
+150 : Not a Leap Year
+151 : Not a Leap Year
+152 : Leap year
+153 : Not a Leap Year
+154 : Not a Leap Year
+155 : Not a Leap Year
+156 : Leap year
+157 : Not a Leap Year
+158 : Not a Leap Year
+159 : Not a Leap Year
+160 : Leap year
+161 : Not a Leap Year
+162 : Not a Leap Year
+163 : Not a Leap Year
+164 : Leap year
+165 : Not a Leap Year
+166 : Not a Leap Year
+167 : Not a Leap Year
+168 : Leap year
+169 : Not a Leap Year
+170 : Not a Leap Year
+171 : Not a Leap Year
+172 : Leap year
+173 : Not a Leap Year
+174 : Not a Leap Year
+175 : Not a Leap Year
+176 : Leap year
+177 : Not a Leap Year
+178 : Not a Leap Year
+179 : Not a Leap Year
+180 : Leap year
+181 : Not a Leap Year
+182 : Not a Leap Year
+183 : Not a Leap Year
+184 : Leap year
+185 : Not a Leap Year
+186 : Not a Leap Year
+187 : Not a Leap Year
+188 : Leap year
+189 : Not a Leap Year
+190 : Not a Leap Year
+191 : Not a Leap Year
+192 : Leap year
+193 : Not a Leap Year
+194 : Not a Leap Year
+195 : Not a Leap Year
+196 : Leap year
+197 : Not a Leap Year
+198 : Not a Leap Year
+199 : Not a Leap Year
+200 : Not a Leap Year
+201 : Not a Leap Year
+202 : Not a Leap Year
+203 : Not a Leap Year
+204 : Leap year
+205 : Not a Leap Year
+206 : Not a Leap Year
+207 : Not a Leap Year
+208 : Leap year
+209 : Not a Leap Year
+210 : Not a Leap Year
+211 : Not a Leap Year
+212 : Leap year
+213 : Not a Leap Year
+214 : Not a Leap Year
+215 : Not a Leap Year
+216 : Leap year
+217 : Not a Leap Year
+218 : Not a Leap Year
+219 : Not a Leap Year
+220 : Leap year
+221 : Not a Leap Year
+222 : Not a Leap Year
+223 : Not a Leap Year
+224 : Leap year
+225 : Not a Leap Year
+226 : Not a Leap Year
+227 : Not a Leap Year
+228 : Leap year
+229 : Not a Leap Year
+230 : Not a Leap Year
+231 : Not a Leap Year
+232 : Leap year
+233 : Not a Leap Year
+234 : Not a Leap Year
+235 : Not a Leap Year
+236 : Leap year
+237 : Not a Leap Year
+238 : Not a Leap Year
+239 : Not a Leap Year
+240 : Leap year
+241 : Not a Leap Year
+242 : Not a Leap Year
+243 : Not a Leap Year
+244 : Leap year
+245 : Not a Leap Year
+246 : Not a Leap Year
+247 : Not a Leap Year
+248 : Leap year
+249 : Not a Leap Year
+250 : Not a Leap Year
+251 : Not a Leap Year
+252 : Leap year
+253 : Not a Leap Year
+254 : Not a Leap Year
+255 : Not a Leap Year
+256 : Leap year
+257 : Not a Leap Year
+258 : Not a Leap Year
+259 : Not a Leap Year
+260 : Leap year
+261 : Not a Leap Year
+262 : Not a Leap Year
+263 : Not a Leap Year
+264 : Leap year
+265 : Not a Leap Year
+266 : Not a Leap Year
+267 : Not a Leap Year
+268 : Leap year
+269 : Not a Leap Year
+270 : Not a Leap Year
+271 : Not a Leap Year
+272 : Leap year
+273 : Not a Leap Year
+274 : Not a Leap Year
+275 : Not a Leap Year
+276 : Leap year
+277 : Not a Leap Year
+278 : Not a Leap Year
+279 : Not a Leap Year
+280 : Leap year
+281 : Not a Leap Year
+282 : Not a Leap Year
+283 : Not a Leap Year
+284 : Leap year
+285 : Not a Leap Year
+286 : Not a Leap Year
+287 : Not a Leap Year
+288 : Leap year
+289 : Not a Leap Year
+290 : Not a Leap Year
+291 : Not a Leap Year
+292 : Leap year
+293 : Not a Leap Year
+294 : Not a Leap Year
+295 : Not a Leap Year
+296 : Leap year
+297 : Not a Leap Year
+298 : Not a Leap Year
+299 : Not a Leap Year
+300 : Not a Leap Year
+301 : Not a Leap Year
+302 : Not a Leap Year
+303 : Not a Leap Year
+304 : Leap year
+305 : Not a Leap Year
+306 : Not a Leap Year
+307 : Not a Leap Year
+308 : Leap year
+309 : Not a Leap Year
+310 : Not a Leap Year
+311 : Not a Leap Year
+312 : Leap year
+313 : Not a Leap Year
+314 : Not a Leap Year
+315 : Not a Leap Year
+316 : Leap year
+317 : Not a Leap Year
+318 : Not a Leap Year
+319 : Not a Leap Year
+320 : Leap year
+321 : Not a Leap Year
+322 : Not a Leap Year
+323 : Not a Leap Year
+324 : Leap year
+325 : Not a Leap Year
+326 : Not a Leap Year
+327 : Not a Leap Year
+328 : Leap year
+329 : Not a Leap Year
+330 : Not a Leap Year
+331 : Not a Leap Year
+332 : Leap year
+333 : Not a Leap Year
+334 : Not a Leap Year
+335 : Not a Leap Year
+336 : Leap year
+337 : Not a Leap Year
+338 : Not a Leap Year
+339 : Not a Leap Year
+340 : Leap year
+341 : Not a Leap Year
+342 : Not a Leap Year
+343 : Not a Leap Year
+344 : Leap year
+345 : Not a Leap Year
+346 : Not a Leap Year
+347 : Not a Leap Year
+348 : Leap year
+349 : Not a Leap Year
+350 : Not a Leap Year
+351 : Not a Leap Year
+352 : Leap year
+353 : Not a Leap Year
+354 : Not a Leap Year
+355 : Not a Leap Year
+356 : Leap year
+357 : Not a Leap Year
+358 : Not a Leap Year
+359 : Not a Leap Year
+360 : Leap year
+361 : Not a Leap Year
+362 : Not a Leap Year
+363 : Not a Leap Year
+364 : Leap year
+365 : Not a Leap Year
+366 : Not a Leap Year
+367 : Not a Leap Year
+368 : Leap year
+369 : Not a Leap Year
+370 : Not a Leap Year
+371 : Not a Leap Year
+372 : Leap year
+373 : Not a Leap Year
+374 : Not a Leap Year
+375 : Not a Leap Year
+376 : Leap year
+377 : Not a Leap Year
+378 : Not a Leap Year
+379 : Not a Leap Year
+380 : Leap year
+381 : Not a Leap Year
+382 : Not a Leap Year
+383 : Not a Leap Year
+384 : Leap year
+385 : Not a Leap Year
+386 : Not a Leap Year
+387 : Not a Leap Year
+388 : Leap year
+389 : Not a Leap Year
+390 : Not a Leap Year
+391 : Not a Leap Year
+392 : Leap year
+393 : Not a Leap Year
+394 : Not a Leap Year
+395 : Not a Leap Year
+396 : Leap year
+397 : Not a Leap Year
+398 : Not a Leap Year
+399 : Not a Leap Year
+400 : Leap year
+401 : Not a Leap Year
+402 : Not a Leap Year
+403 : Not a Leap Year
+404 : Leap year
+405 : Not a Leap Year
+406 : Not a Leap Year
+407 : Not a Leap Year
+408 : Leap year
+409 : Not a Leap Year
+410 : Not a Leap Year
+411 : Not a Leap Year
+412 : Leap year
+413 : Not a Leap Year
+414 : Not a Leap Year
+415 : Not a Leap Year
+416 : Leap year
+417 : Not a Leap Year
+418 : Not a Leap Year
+419 : Not a Leap Year
+420 : Leap year
+421 : Not a Leap Year
+422 : Not a Leap Year
+423 : Not a Leap Year
+424 : Leap year
+425 : Not a Leap Year
+426 : Not a Leap Year
+427 : Not a Leap Year
+428 : Leap year
+429 : Not a Leap Year
+430 : Not a Leap Year
+431 : Not a Leap Year
+432 : Leap year
+433 : Not a Leap Year
+434 : Not a Leap Year
+435 : Not a Leap Year
+436 : Leap year
+437 : Not a Leap Year
+438 : Not a Leap Year
+439 : Not a Leap Year
+440 : Leap year
+441 : Not a Leap Year
+442 : Not a Leap Year
+443 : Not a Leap Year
+444 : Leap year
+445 : Not a Leap Year
+446 : Not a Leap Year
+447 : Not a Leap Year
+448 : Leap year
+449 : Not a Leap Year
+450 : Not a Leap Year
+451 : Not a Leap Year
+452 : Leap year
+453 : Not a Leap Year
+454 : Not a Leap Year
+455 : Not a Leap Year
+456 : Leap year
+457 : Not a Leap Year
+458 : Not a Leap Year
+459 : Not a Leap Year
+460 : Leap year
+461 : Not a Leap Year
+462 : Not a Leap Year
+463 : Not a Leap Year
+464 : Leap year
+465 : Not a Leap Year
+466 : Not a Leap Year
+467 : Not a Leap Year
+468 : Leap year
+469 : Not a Leap Year
+470 : Not a Leap Year
+471 : Not a Leap Year
+472 : Leap year
+473 : Not a Leap Year
+474 : Not a Leap Year
+475 : Not a Leap Year
+476 : Leap year
+477 : Not a Leap Year
+478 : Not a Leap Year
+479 : Not a Leap Year
+480 : Leap year
+481 : Not a Leap Year
+482 : Not a Leap Year
+483 : Not a Leap Year
+484 : Leap year
+485 : Not a Leap Year
+486 : Not a Leap Year
+487 : Not a Leap Year
+488 : Leap year
+489 : Not a Leap Year
+490 : Not a Leap Year
+491 : Not a Leap Year
+492 : Leap year
+493 : Not a Leap Year
+494 : Not a Leap Year
+495 : Not a Leap Year
+496 : Leap year
+497 : Not a Leap Year
+498 : Not a Leap Year
+499 : Not a Leap Year
+500 : Not a Leap Year
+501 : Not a Leap Year
+502 : Not a Leap Year
+503 : Not a Leap Year
+504 : Leap year
+505 : Not a Leap Year
+506 : Not a Leap Year
+507 : Not a Leap Year
+508 : Leap year
+509 : Not a Leap Year
+510 : Not a Leap Year
+511 : Not a Leap Year
+512 : Leap year
+513 : Not a Leap Year
+514 : Not a Leap Year
+515 : Not a Leap Year
+516 : Leap year
+517 : Not a Leap Year
+518 : Not a Leap Year
+519 : Not a Leap Year
+520 : Leap year
+521 : Not a Leap Year
+522 : Not a Leap Year
+523 : Not a Leap Year
+524 : Leap year
+525 : Not a Leap Year
+526 : Not a Leap Year
+527 : Not a Leap Year
+528 : Leap year
+529 : Not a Leap Year
+530 : Not a Leap Year
+531 : Not a Leap Year
+532 : Leap year
+533 : Not a Leap Year
+534 : Not a Leap Year
+535 : Not a Leap Year
+536 : Leap year
+537 : Not a Leap Year
+538 : Not a Leap Year
+539 : Not a Leap Year
+540 : Leap year
+541 : Not a Leap Year
+542 : Not a Leap Year
+543 : Not a Leap Year
+544 : Leap year
+545 : Not a Leap Year
+546 : Not a Leap Year
+547 : Not a Leap Year
+548 : Leap year
+549 : Not a Leap Year
+550 : Not a Leap Year
+551 : Not a Leap Year
+552 : Leap year
+553 : Not a Leap Year
+554 : Not a Leap Year
+555 : Not a Leap Year
+556 : Leap year
+557 : Not a Leap Year
+558 : Not a Leap Year
+559 : Not a Leap Year
+560 : Leap year
+561 : Not a Leap Year
+562 : Not a Leap Year
+563 : Not a Leap Year
+564 : Leap year
+565 : Not a Leap Year
+566 : Not a Leap Year
+567 : Not a Leap Year
+568 : Leap year
+569 : Not a Leap Year
+570 : Not a Leap Year
+571 : Not a Leap Year
+572 : Leap year
+573 : Not a Leap Year
+574 : Not a Leap Year
+575 : Not a Leap Year
+576 : Leap year
+577 : Not a Leap Year
+578 : Not a Leap Year
+579 : Not a Leap Year
+580 : Leap year
+581 : Not a Leap Year
+582 : Not a Leap Year
+583 : Not a Leap Year
+584 : Leap year
+585 : Not a Leap Year
+586 : Not a Leap Year
+587 : Not a Leap Year
+588 : Leap year
+589 : Not a Leap Year
+590 : Not a Leap Year
+591 : Not a Leap Year
+592 : Leap year
+593 : Not a Leap Year
+594 : Not a Leap Year
+595 : Not a Leap Year
+596 : Leap year
+597 : Not a Leap Year
+598 : Not a Leap Year
+599 : Not a Leap Year
+600 : Not a Leap Year
+601 : Not a Leap Year
+602 : Not a Leap Year
+603 : Not a Leap Year
+604 : Leap year
+605 : Not a Leap Year
+606 : Not a Leap Year
+607 : Not a Leap Year
+608 : Leap year
+609 : Not a Leap Year
+610 : Not a Leap Year
+611 : Not a Leap Year
+612 : Leap year
+613 : Not a Leap Year
+614 : Not a Leap Year
+615 : Not a Leap Year
+616 : Leap year
+617 : Not a Leap Year
+618 : Not a Leap Year
+619 : Not a Leap Year
+620 : Leap year
+621 : Not a Leap Year
+622 : Not a Leap Year
+623 : Not a Leap Year
+624 : Leap year
+625 : Not a Leap Year
+626 : Not a Leap Year
+627 : Not a Leap Year
+628 : Leap year
+629 : Not a Leap Year
+630 : Not a Leap Year
+631 : Not a Leap Year
+632 : Leap year
+633 : Not a Leap Year
+634 : Not a Leap Year
+635 : Not a Leap Year
+636 : Leap year
+637 : Not a Leap Year
+638 : Not a Leap Year
+639 : Not a Leap Year
+640 : Leap year
+641 : Not a Leap Year
+642 : Not a Leap Year
+643 : Not a Leap Year
+644 : Leap year
+645 : Not a Leap Year
+646 : Not a Leap Year
+647 : Not a Leap Year
+648 : Leap year
+649 : Not a Leap Year
+650 : Not a Leap Year
+651 : Not a Leap Year
+652 : Leap year
+653 : Not a Leap Year
+654 : Not a Leap Year
+655 : Not a Leap Year
+656 : Leap year
+657 : Not a Leap Year
+658 : Not a Leap Year
+659 : Not a Leap Year
+660 : Leap year
+661 : Not a Leap Year
+662 : Not a Leap Year
+663 : Not a Leap Year
+664 : Leap year
+665 : Not a Leap Year
+666 : Not a Leap Year
+667 : Not a Leap Year
+668 : Leap year
+669 : Not a Leap Year
+670 : Not a Leap Year
+671 : Not a Leap Year
+672 : Leap year
+673 : Not a Leap Year
+674 : Not a Leap Year
+675 : Not a Leap Year
+676 : Leap year
+677 : Not a Leap Year
+678 : Not a Leap Year
+679 : Not a Leap Year
+680 : Leap year
+681 : Not a Leap Year
+682 : Not a Leap Year
+683 : Not a Leap Year
+684 : Leap year
+685 : Not a Leap Year
+686 : Not a Leap Year
+687 : Not a Leap Year
+688 : Leap year
+689 : Not a Leap Year
+690 : Not a Leap Year
+691 : Not a Leap Year
+692 : Leap year
+693 : Not a Leap Year
+694 : Not a Leap Year
+695 : Not a Leap Year
+696 : Leap year
+697 : Not a Leap Year
+698 : Not a Leap Year
+699 : Not a Leap Year
+700 : Not a Leap Year
+701 : Not a Leap Year
+702 : Not a Leap Year
+703 : Not a Leap Year
+704 : Leap year
+705 : Not a Leap Year
+706 : Not a Leap Year
+707 : Not a Leap Year
+708 : Leap year
+709 : Not a Leap Year
+710 : Not a Leap Year
+711 : Not a Leap Year
+712 : Leap year
+713 : Not a Leap Year
+714 : Not a Leap Year
+715 : Not a Leap Year
+716 : Leap year
+717 : Not a Leap Year
+718 : Not a Leap Year
+719 : Not a Leap Year
+720 : Leap year
+721 : Not a Leap Year
+722 : Not a Leap Year
+723 : Not a Leap Year
+724 : Leap year
+725 : Not a Leap Year
+726 : Not a Leap Year
+727 : Not a Leap Year
+728 : Leap year
+729 : Not a Leap Year
+730 : Not a Leap Year
+731 : Not a Leap Year
+732 : Leap year
+733 : Not a Leap Year
+734 : Not a Leap Year
+735 : Not a Leap Year
+736 : Leap year
+737 : Not a Leap Year
+738 : Not a Leap Year
+739 : Not a Leap Year
+740 : Leap year
+741 : Not a Leap Year
+742 : Not a Leap Year
+743 : Not a Leap Year
+744 : Leap year
+745 : Not a Leap Year
+746 : Not a Leap Year
+747 : Not a Leap Year
+748 : Leap year
+749 : Not a Leap Year
+750 : Not a Leap Year
+751 : Not a Leap Year
+752 : Leap year
+753 : Not a Leap Year
+754 : Not a Leap Year
+755 : Not a Leap Year
+756 : Leap year
+757 : Not a Leap Year
+758 : Not a Leap Year
+759 : Not a Leap Year
+760 : Leap year
+761 : Not a Leap Year
+762 : Not a Leap Year
+763 : Not a Leap Year
+764 : Leap year
+765 : Not a Leap Year
+766 : Not a Leap Year
+767 : Not a Leap Year
+768 : Leap year
+769 : Not a Leap Year
+770 : Not a Leap Year
+771 : Not a Leap Year
+772 : Leap year
+773 : Not a Leap Year
+774 : Not a Leap Year
+775 : Not a Leap Year
+776 : Leap year
+777 : Not a Leap Year
+778 : Not a Leap Year
+779 : Not a Leap Year
+780 : Leap year
+781 : Not a Leap Year
+782 : Not a Leap Year
+783 : Not a Leap Year
+784 : Leap year
+785 : Not a Leap Year
+786 : Not a Leap Year
+787 : Not a Leap Year
+788 : Leap year
+789 : Not a Leap Year
+790 : Not a Leap Year
+791 : Not a Leap Year
+792 : Leap year
+793 : Not a Leap Year
+794 : Not a Leap Year
+795 : Not a Leap Year
+796 : Leap year
+797 : Not a Leap Year
+798 : Not a Leap Year
+799 : Not a Leap Year
+800 : Leap year
+801 : Not a Leap Year
+802 : Not a Leap Year
+803 : Not a Leap Year
+804 : Leap year
+805 : Not a Leap Year
+806 : Not a Leap Year
+807 : Not a Leap Year
+808 : Leap year
+809 : Not a Leap Year
+810 : Not a Leap Year
+811 : Not a Leap Year
+812 : Leap year
+813 : Not a Leap Year
+814 : Not a Leap Year
+815 : Not a Leap Year
+816 : Leap year
+817 : Not a Leap Year
+818 : Not a Leap Year
+819 : Not a Leap Year
+820 : Leap year
+821 : Not a Leap Year
+822 : Not a Leap Year
+823 : Not a Leap Year
+824 : Leap year
+825 : Not a Leap Year
+826 : Not a Leap Year
+827 : Not a Leap Year
+828 : Leap year
+829 : Not a Leap Year
+830 : Not a Leap Year
+831 : Not a Leap Year
+832 : Leap year
+833 : Not a Leap Year
+834 : Not a Leap Year
+835 : Not a Leap Year
+836 : Leap year
+837 : Not a Leap Year
+838 : Not a Leap Year
+839 : Not a Leap Year
+840 : Leap year
+841 : Not a Leap Year
+842 : Not a Leap Year
+843 : Not a Leap Year
+844 : Leap year
+845 : Not a Leap Year
+846 : Not a Leap Year
+847 : Not a Leap Year
+848 : Leap year
+849 : Not a Leap Year
+850 : Not a Leap Year
+851 : Not a Leap Year
+852 : Leap year
+853 : Not a Leap Year
+854 : Not a Leap Year
+855 : Not a Leap Year
+856 : Leap year
+857 : Not a Leap Year
+858 : Not a Leap Year
+859 : Not a Leap Year
+860 : Leap year
+861 : Not a Leap Year
+862 : Not a Leap Year
+863 : Not a Leap Year
+864 : Leap year
+865 : Not a Leap Year
+866 : Not a Leap Year
+867 : Not a Leap Year
+868 : Leap year
+869 : Not a Leap Year
+870 : Not a Leap Year
+871 : Not a Leap Year
+872 : Leap year
+873 : Not a Leap Year
+874 : Not a Leap Year
+875 : Not a Leap Year
+876 : Leap year
+877 : Not a Leap Year
+878 : Not a Leap Year
+879 : Not a Leap Year
+880 : Leap year
+881 : Not a Leap Year
+882 : Not a Leap Year
+883 : Not a Leap Year
+884 : Leap year
+885 : Not a Leap Year
+886 : Not a Leap Year
+887 : Not a Leap Year
+888 : Leap year
+889 : Not a Leap Year
+890 : Not a Leap Year
+891 : Not a Leap Year
+892 : Leap year
+893 : Not a Leap Year
+894 : Not a Leap Year
+895 : Not a Leap Year
+896 : Leap year
+897 : Not a Leap Year
+898 : Not a Leap Year
+899 : Not a Leap Year
+900 : Not a Leap Year
+901 : Not a Leap Year
+902 : Not a Leap Year
+903 : Not a Leap Year
+904 : Leap year
+905 : Not a Leap Year
+906 : Not a Leap Year
+907 : Not a Leap Year
+908 : Leap year
+909 : Not a Leap Year
+910 : Not a Leap Year
+911 : Not a Leap Year
+912 : Leap year
+913 : Not a Leap Year
+914 : Not a Leap Year
+915 : Not a Leap Year
+916 : Leap year
+917 : Not a Leap Year
+918 : Not a Leap Year
+919 : Not a Leap Year
+920 : Leap year
+921 : Not a Leap Year
+922 : Not a Leap Year
+923 : Not a Leap Year
+924 : Leap year
+925 : Not a Leap Year
+926 : Not a Leap Year
+927 : Not a Leap Year
+928 : Leap year
+929 : Not a Leap Year
+930 : Not a Leap Year
+931 : Not a Leap Year
+932 : Leap year
+933 : Not a Leap Year
+934 : Not a Leap Year
+935 : Not a Leap Year
+936 : Leap year
+937 : Not a Leap Year
+938 : Not a Leap Year
+939 : Not a Leap Year
+940 : Leap year
+941 : Not a Leap Year
+942 : Not a Leap Year
+943 : Not a Leap Year
+944 : Leap year
+945 : Not a Leap Year
+946 : Not a Leap Year
+947 : Not a Leap Year
+948 : Leap year
+949 : Not a Leap Year
+950 : Not a Leap Year
+951 : Not a Leap Year
+952 : Leap year
+953 : Not a Leap Year
+954 : Not a Leap Year
+955 : Not a Leap Year
+956 : Leap year
+957 : Not a Leap Year
+958 : Not a Leap Year
+959 : Not a Leap Year
+960 : Leap year
+961 : Not a Leap Year
+962 : Not a Leap Year
+963 : Not a Leap Year
+964 : Leap year
+965 : Not a Leap Year
+966 : Not a Leap Year
+967 : Not a Leap Year
+968 : Leap year
+969 : Not a Leap Year
+970 : Not a Leap Year
+971 : Not a Leap Year
+972 : Leap year
+973 : Not a Leap Year
+974 : Not a Leap Year
+975 : Not a Leap Year
+976 : Leap year
+977 : Not a Leap Year
+978 : Not a Leap Year
+979 : Not a Leap Year
+980 : Leap year
+981 : Not a Leap Year
+982 : Not a Leap Year
+983 : Not a Leap Year
+984 : Leap year
+985 : Not a Leap Year
+986 : Not a Leap Year
+987 : Not a Leap Year
+988 : Leap year
+989 : Not a Leap Year
+990 : Not a Leap Year
+991 : Not a Leap Year
+992 : Leap year
+993 : Not a Leap Year
+994 : Not a Leap Year
+995 : Not a Leap Year
+996 : Leap year
+997 : Not a Leap Year
+998 : Not a Leap Year
+999 : Not a Leap Year
+1000 : Not a Leap Year
+1001 : Not a Leap Year
+1002 : Not a Leap Year
+1003 : Not a Leap Year
+1004 : Leap year
+1005 : Not a Leap Year
+1006 : Not a Leap Year
+1007 : Not a Leap Year
+1008 : Leap year
+1009 : Not a Leap Year
+1010 : Not a Leap Year
+1011 : Not a Leap Year
+1012 : Leap year
+1013 : Not a Leap Year
+1014 : Not a Leap Year
+1015 : Not a Leap Year
+1016 : Leap year
+1017 : Not a Leap Year
+1018 : Not a Leap Year
+1019 : Not a Leap Year
+1020 : Leap year
+1021 : Not a Leap Year
+1022 : Not a Leap Year
+1023 : Not a Leap Year
+1024 : Leap year
+1025 : Not a Leap Year
+1026 : Not a Leap Year
+1027 : Not a Leap Year
+1028 : Leap year
+1029 : Not a Leap Year
+1030 : Not a Leap Year
+1031 : Not a Leap Year
+1032 : Leap year
+1033 : Not a Leap Year
+1034 : Not a Leap Year
+1035 : Not a Leap Year
+1036 : Leap year
+1037 : Not a Leap Year
+1038 : Not a Leap Year
+1039 : Not a Leap Year
+1040 : Leap year
+1041 : Not a Leap Year
+1042 : Not a Leap Year
+1043 : Not a Leap Year
+1044 : Leap year
+1045 : Not a Leap Year
+1046 : Not a Leap Year
+1047 : Not a Leap Year
+1048 : Leap year
+1049 : Not a Leap Year
+1050 : Not a Leap Year
+1051 : Not a Leap Year
+1052 : Leap year
+1053 : Not a Leap Year
+1054 : Not a Leap Year
+1055 : Not a Leap Year
+1056 : Leap year
+1057 : Not a Leap Year
+1058 : Not a Leap Year
+1059 : Not a Leap Year
+1060 : Leap year
+1061 : Not a Leap Year
+1062 : Not a Leap Year
+1063 : Not a Leap Year
+1064 : Leap year
+1065 : Not a Leap Year
+1066 : Not a Leap Year
+1067 : Not a Leap Year
+1068 : Leap year
+1069 : Not a Leap Year
+1070 : Not a Leap Year
+1071 : Not a Leap Year
+1072 : Leap year
+1073 : Not a Leap Year
+1074 : Not a Leap Year
+1075 : Not a Leap Year
+1076 : Leap year
+1077 : Not a Leap Year
+1078 : Not a Leap Year
+1079 : Not a Leap Year
+1080 : Leap year
+1081 : Not a Leap Year
+1082 : Not a Leap Year
+1083 : Not a Leap Year
+1084 : Leap year
+1085 : Not a Leap Year
+1086 : Not a Leap Year
+1087 : Not a Leap Year
+1088 : Leap year
+1089 : Not a Leap Year
+1090 : Not a Leap Year
+1091 : Not a Leap Year
+1092 : Leap year
+1093 : Not a Leap Year
+1094 : Not a Leap Year
+1095 : Not a Leap Year
+1096 : Leap year
+1097 : Not a Leap Year
+1098 : Not a Leap Year
+1099 : Not a Leap Year
+1100 : Not a Leap Year
+1101 : Not a Leap Year
+1102 : Not a Leap Year
+1103 : Not a Leap Year
+1104 : Leap year
+1105 : Not a Leap Year
+1106 : Not a Leap Year
+1107 : Not a Leap Year
+1108 : Leap year
+1109 : Not a Leap Year
+1110 : Not a Leap Year
+1111 : Not a Leap Year
+1112 : Leap year
+1113 : Not a Leap Year
+1114 : Not a Leap Year
+1115 : Not a Leap Year
+1116 : Leap year
+1117 : Not a Leap Year
+1118 : Not a Leap Year
+1119 : Not a Leap Year
+1120 : Leap year
+1121 : Not a Leap Year
+1122 : Not a Leap Year
+1123 : Not a Leap Year
+1124 : Leap year
+1125 : Not a Leap Year
+1126 : Not a Leap Year
+1127 : Not a Leap Year
+1128 : Leap year
+1129 : Not a Leap Year
+1130 : Not a Leap Year
+1131 : Not a Leap Year
+1132 : Leap year
+1133 : Not a Leap Year
+1134 : Not a Leap Year
+1135 : Not a Leap Year
+1136 : Leap year
+1137 : Not a Leap Year
+1138 : Not a Leap Year
+1139 : Not a Leap Year
+1140 : Leap year
+1141 : Not a Leap Year
+1142 : Not a Leap Year
+1143 : Not a Leap Year
+1144 : Leap year
+1145 : Not a Leap Year
+1146 : Not a Leap Year
+1147 : Not a Leap Year
+1148 : Leap year
+1149 : Not a Leap Year
+1150 : Not a Leap Year
+1151 : Not a Leap Year
+1152 : Leap year
+1153 : Not a Leap Year
+1154 : Not a Leap Year
+1155 : Not a Leap Year
+1156 : Leap year
+1157 : Not a Leap Year
+1158 : Not a Leap Year
+1159 : Not a Leap Year
+1160 : Leap year
+1161 : Not a Leap Year
+1162 : Not a Leap Year
+1163 : Not a Leap Year
+1164 : Leap year
+1165 : Not a Leap Year
+1166 : Not a Leap Year
+1167 : Not a Leap Year
+1168 : Leap year
+1169 : Not a Leap Year
+1170 : Not a Leap Year
+1171 : Not a Leap Year
+1172 : Leap year
+1173 : Not a Leap Year
+1174 : Not a Leap Year
+1175 : Not a Leap Year
+1176 : Leap year
+1177 : Not a Leap Year
+1178 : Not a Leap Year
+1179 : Not a Leap Year
+1180 : Leap year
+1181 : Not a Leap Year
+1182 : Not a Leap Year
+1183 : Not a Leap Year
+1184 : Leap year
+1185 : Not a Leap Year
+1186 : Not a Leap Year
+1187 : Not a Leap Year
+1188 : Leap year
+1189 : Not a Leap Year
+1190 : Not a Leap Year
+1191 : Not a Leap Year
+1192 : Leap year
+1193 : Not a Leap Year
+1194 : Not a Leap Year
+1195 : Not a Leap Year
+1196 : Leap year
+1197 : Not a Leap Year
+1198 : Not a Leap Year
+1199 : Not a Leap Year
+1200 : Leap year
+1201 : Not a Leap Year
+1202 : Not a Leap Year
+1203 : Not a Leap Year
+1204 : Leap year
+1205 : Not a Leap Year
+1206 : Not a Leap Year
+1207 : Not a Leap Year
+1208 : Leap year
+1209 : Not a Leap Year
+1210 : Not a Leap Year
+1211 : Not a Leap Year
+1212 : Leap year
+1213 : Not a Leap Year
+1214 : Not a Leap Year
+1215 : Not a Leap Year
+1216 : Leap year
+1217 : Not a Leap Year
+1218 : Not a Leap Year
+1219 : Not a Leap Year
+1220 : Leap year
+1221 : Not a Leap Year
+1222 : Not a Leap Year
+1223 : Not a Leap Year
+1224 : Leap year
+1225 : Not a Leap Year
+1226 : Not a Leap Year
+1227 : Not a Leap Year
+1228 : Leap year
+1229 : Not a Leap Year
+1230 : Not a Leap Year
+1231 : Not a Leap Year
+1232 : Leap year
+1233 : Not a Leap Year
+1234 : Not a Leap Year
+1235 : Not a Leap Year
+1236 : Leap year
+1237 : Not a Leap Year
+1238 : Not a Leap Year
+1239 : Not a Leap Year
+1240 : Leap year
+1241 : Not a Leap Year
+1242 : Not a Leap Year
+1243 : Not a Leap Year
+1244 : Leap year
+1245 : Not a Leap Year
+1246 : Not a Leap Year
+1247 : Not a Leap Year
+1248 : Leap year
+1249 : Not a Leap Year
+1250 : Not a Leap Year
+1251 : Not a Leap Year
+1252 : Leap year
+1253 : Not a Leap Year
+1254 : Not a Leap Year
+1255 : Not a Leap Year
+1256 : Leap year
+1257 : Not a Leap Year
+1258 : Not a Leap Year
+1259 : Not a Leap Year
+1260 : Leap year
+1261 : Not a Leap Year
+1262 : Not a Leap Year
+1263 : Not a Leap Year
+1264 : Leap year
+1265 : Not a Leap Year
+1266 : Not a Leap Year
+1267 : Not a Leap Year
+1268 : Leap year
+1269 : Not a Leap Year
+1270 : Not a Leap Year
+1271 : Not a Leap Year
+1272 : Leap year
+1273 : Not a Leap Year
+1274 : Not a Leap Year
+1275 : Not a Leap Year
+1276 : Leap year
+1277 : Not a Leap Year
+1278 : Not a Leap Year
+1279 : Not a Leap Year
+1280 : Leap year
+1281 : Not a Leap Year
+1282 : Not a Leap Year
+1283 : Not a Leap Year
+1284 : Leap year
+1285 : Not a Leap Year
+1286 : Not a Leap Year
+1287 : Not a Leap Year
+1288 : Leap year
+1289 : Not a Leap Year
+1290 : Not a Leap Year
+1291 : Not a Leap Year
+1292 : Leap year
+1293 : Not a Leap Year
+1294 : Not a Leap Year
+1295 : Not a Leap Year
+1296 : Leap year
+1297 : Not a Leap Year
+1298 : Not a Leap Year
+1299 : Not a Leap Year
+1300 : Not a Leap Year
+1301 : Not a Leap Year
+1302 : Not a Leap Year
+1303 : Not a Leap Year
+1304 : Leap year
+1305 : Not a Leap Year
+1306 : Not a Leap Year
+1307 : Not a Leap Year
+1308 : Leap year
+1309 : Not a Leap Year
+1310 : Not a Leap Year
+1311 : Not a Leap Year
+1312 : Leap year
+1313 : Not a Leap Year
+1314 : Not a Leap Year
+1315 : Not a Leap Year
+1316 : Leap year
+1317 : Not a Leap Year
+1318 : Not a Leap Year
+1319 : Not a Leap Year
+1320 : Leap year
+1321 : Not a Leap Year
+1322 : Not a Leap Year
+1323 : Not a Leap Year
+1324 : Leap year
+1325 : Not a Leap Year
+1326 : Not a Leap Year
+1327 : Not a Leap Year
+1328 : Leap year
+1329 : Not a Leap Year
+1330 : Not a Leap Year
+1331 : Not a Leap Year
+1332 : Leap year
+1333 : Not a Leap Year
+1334 : Not a Leap Year
+1335 : Not a Leap Year
+1336 : Leap year
+1337 : Not a Leap Year
+1338 : Not a Leap Year
+1339 : Not a Leap Year
+1340 : Leap year
+1341 : Not a Leap Year
+1342 : Not a Leap Year
+1343 : Not a Leap Year
+1344 : Leap year
+1345 : Not a Leap Year
+1346 : Not a Leap Year
+1347 : Not a Leap Year
+1348 : Leap year
+1349 : Not a Leap Year
+1350 : Not a Leap Year
+1351 : Not a Leap Year
+1352 : Leap year
+1353 : Not a Leap Year
+1354 : Not a Leap Year
+1355 : Not a Leap Year
+1356 : Leap year
+1357 : Not a Leap Year
+1358 : Not a Leap Year
+1359 : Not a Leap Year
+1360 : Leap year
+1361 : Not a Leap Year
+1362 : Not a Leap Year
+1363 : Not a Leap Year
+1364 : Leap year
+1365 : Not a Leap Year
+1366 : Not a Leap Year
+1367 : Not a Leap Year
+1368 : Leap year
+1369 : Not a Leap Year
+1370 : Not a Leap Year
+1371 : Not a Leap Year
+1372 : Leap year
+1373 : Not a Leap Year
+1374 : Not a Leap Year
+1375 : Not a Leap Year
+1376 : Leap year
+1377 : Not a Leap Year
+1378 : Not a Leap Year
+1379 : Not a Leap Year
+1380 : Leap year
+1381 : Not a Leap Year
+1382 : Not a Leap Year
+1383 : Not a Leap Year
+1384 : Leap year
+1385 : Not a Leap Year
+1386 : Not a Leap Year
+1387 : Not a Leap Year
+1388 : Leap year
+1389 : Not a Leap Year
+1390 : Not a Leap Year
+1391 : Not a Leap Year
+1392 : Leap year
+1393 : Not a Leap Year
+1394 : Not a Leap Year
+1395 : Not a Leap Year
+1396 : Leap year
+1397 : Not a Leap Year
+1398 : Not a Leap Year
+1399 : Not a Leap Year
+1400 : Not a Leap Year
+1401 : Not a Leap Year
+1402 : Not a Leap Year
+1403 : Not a Leap Year
+1404 : Leap year
+1405 : Not a Leap Year
+1406 : Not a Leap Year
+1407 : Not a Leap Year
+1408 : Leap year
+1409 : Not a Leap Year
+1410 : Not a Leap Year
+1411 : Not a Leap Year
+1412 : Leap year
+1413 : Not a Leap Year
+1414 : Not a Leap Year
+1415 : Not a Leap Year
+1416 : Leap year
+1417 : Not a Leap Year
+1418 : Not a Leap Year
+1419 : Not a Leap Year
+1420 : Leap year
+1421 : Not a Leap Year
+1422 : Not a Leap Year
+1423 : Not a Leap Year
+1424 : Leap year
+1425 : Not a Leap Year
+1426 : Not a Leap Year
+1427 : Not a Leap Year
+1428 : Leap year
+1429 : Not a Leap Year
+1430 : Not a Leap Year
+1431 : Not a Leap Year
+1432 : Leap year
+1433 : Not a Leap Year
+1434 : Not a Leap Year
+1435 : Not a Leap Year
+1436 : Leap year
+1437 : Not a Leap Year
+1438 : Not a Leap Year
+1439 : Not a Leap Year
+1440 : Leap year
+1441 : Not a Leap Year
+1442 : Not a Leap Year
+1443 : Not a Leap Year
+1444 : Leap year
+1445 : Not a Leap Year
+1446 : Not a Leap Year
+1447 : Not a Leap Year
+1448 : Leap year
+1449 : Not a Leap Year
+1450 : Not a Leap Year
+1451 : Not a Leap Year
+1452 : Leap year
+1453 : Not a Leap Year
+1454 : Not a Leap Year
+1455 : Not a Leap Year
+1456 : Leap year
+1457 : Not a Leap Year
+1458 : Not a Leap Year
+1459 : Not a Leap Year
+1460 : Leap year
+1461 : Not a Leap Year
+1462 : Not a Leap Year
+1463 : Not a Leap Year
+1464 : Leap year
+1465 : Not a Leap Year
+1466 : Not a Leap Year
+1467 : Not a Leap Year
+1468 : Leap year
+1469 : Not a Leap Year
+1470 : Not a Leap Year
+1471 : Not a Leap Year
+1472 : Leap year
+1473 : Not a Leap Year
+1474 : Not a Leap Year
+1475 : Not a Leap Year
+1476 : Leap year
+1477 : Not a Leap Year
+1478 : Not a Leap Year
+1479 : Not a Leap Year
+1480 : Leap year
+1481 : Not a Leap Year
+1482 : Not a Leap Year
+1483 : Not a Leap Year
+1484 : Leap year
+1485 : Not a Leap Year
+1486 : Not a Leap Year
+1487 : Not a Leap Year
+1488 : Leap year
+1489 : Not a Leap Year
+1490 : Not a Leap Year
+1491 : Not a Leap Year
+1492 : Leap year
+1493 : Not a Leap Year
+1494 : Not a Leap Year
+1495 : Not a Leap Year
+1496 : Leap year
+1497 : Not a Leap Year
+1498 : Not a Leap Year
+1499 : Not a Leap Year
+1500 : Not a Leap Year
+1501 : Not a Leap Year
+1502 : Not a Leap Year
+1503 : Not a Leap Year
+1504 : Leap year
+1505 : Not a Leap Year
+1506 : Not a Leap Year
+1507 : Not a Leap Year
+1508 : Leap year
+1509 : Not a Leap Year
+1510 : Not a Leap Year
+1511 : Not a Leap Year
+1512 : Leap year
+1513 : Not a Leap Year
+1514 : Not a Leap Year
+1515 : Not a Leap Year
+1516 : Leap year
+1517 : Not a Leap Year
+1518 : Not a Leap Year
+1519 : Not a Leap Year
+1520 : Leap year
+1521 : Not a Leap Year
+1522 : Not a Leap Year
+1523 : Not a Leap Year
+1524 : Leap year
+1525 : Not a Leap Year
+1526 : Not a Leap Year
+1527 : Not a Leap Year
+1528 : Leap year
+1529 : Not a Leap Year
+1530 : Not a Leap Year
+1531 : Not a Leap Year
+1532 : Leap year
+1533 : Not a Leap Year
+1534 : Not a Leap Year
+1535 : Not a Leap Year
+1536 : Leap year
+1537 : Not a Leap Year
+1538 : Not a Leap Year
+1539 : Not a Leap Year
+1540 : Leap year
+1541 : Not a Leap Year
+1542 : Not a Leap Year
+1543 : Not a Leap Year
+1544 : Leap year
+1545 : Not a Leap Year
+1546 : Not a Leap Year
+1547 : Not a Leap Year
+1548 : Leap year
+1549 : Not a Leap Year
+1550 : Not a Leap Year
+1551 : Not a Leap Year
+1552 : Leap year
+1553 : Not a Leap Year
+1554 : Not a Leap Year
+1555 : Not a Leap Year
+1556 : Leap year
+1557 : Not a Leap Year
+1558 : Not a Leap Year
+1559 : Not a Leap Year
+1560 : Leap year
+1561 : Not a Leap Year
+1562 : Not a Leap Year
+1563 : Not a Leap Year
+1564 : Leap year
+1565 : Not a Leap Year
+1566 : Not a Leap Year
+1567 : Not a Leap Year
+1568 : Leap year
+1569 : Not a Leap Year
+1570 : Not a Leap Year
+1571 : Not a Leap Year
+1572 : Leap year
+1573 : Not a Leap Year
+1574 : Not a Leap Year
+1575 : Not a Leap Year
+1576 : Leap year
+1577 : Not a Leap Year
+1578 : Not a Leap Year
+1579 : Not a Leap Year
+1580 : Leap year
+1581 : Not a Leap Year
+1582 : Not a Leap Year
+1583 : Not a Leap Year
+1584 : Leap year
+1585 : Not a Leap Year
+1586 : Not a Leap Year
+1587 : Not a Leap Year
+1588 : Leap year
+1589 : Not a Leap Year
+1590 : Not a Leap Year
+1591 : Not a Leap Year
+1592 : Leap year
+1593 : Not a Leap Year
+1594 : Not a Leap Year
+1595 : Not a Leap Year
+1596 : Leap year
+1597 : Not a Leap Year
+1598 : Not a Leap Year
+1599 : Not a Leap Year
+1600 : Leap year
+1601 : Not a Leap Year
+1602 : Not a Leap Year
+1603 : Not a Leap Year
+1604 : Leap year
+1605 : Not a Leap Year
+1606 : Not a Leap Year
+1607 : Not a Leap Year
+1608 : Leap year
+1609 : Not a Leap Year
+1610 : Not a Leap Year
+1611 : Not a Leap Year
+1612 : Leap year
+1613 : Not a Leap Year
+1614 : Not a Leap Year
+1615 : Not a Leap Year
+1616 : Leap year
+1617 : Not a Leap Year
+1618 : Not a Leap Year
+1619 : Not a Leap Year
+1620 : Leap year
+1621 : Not a Leap Year
+1622 : Not a Leap Year
+1623 : Not a Leap Year
+1624 : Leap year
+1625 : Not a Leap Year
+1626 : Not a Leap Year
+1627 : Not a Leap Year
+1628 : Leap year
+1629 : Not a Leap Year
+1630 : Not a Leap Year
+1631 : Not a Leap Year
+1632 : Leap year
+1633 : Not a Leap Year
+1634 : Not a Leap Year
+1635 : Not a Leap Year
+1636 : Leap year
+1637 : Not a Leap Year
+1638 : Not a Leap Year
+1639 : Not a Leap Year
+1640 : Leap year
+1641 : Not a Leap Year
+1642 : Not a Leap Year
+1643 : Not a Leap Year
+1644 : Leap year
+1645 : Not a Leap Year
+1646 : Not a Leap Year
+1647 : Not a Leap Year
+1648 : Leap year
+1649 : Not a Leap Year
+1650 : Not a Leap Year
+1651 : Not a Leap Year
+1652 : Leap year
+1653 : Not a Leap Year
+1654 : Not a Leap Year
+1655 : Not a Leap Year
+1656 : Leap year
+1657 : Not a Leap Year
+1658 : Not a Leap Year
+1659 : Not a Leap Year
+1660 : Leap year
+1661 : Not a Leap Year
+1662 : Not a Leap Year
+1663 : Not a Leap Year
+1664 : Leap year
+1665 : Not a Leap Year
+1666 : Not a Leap Year
+1667 : Not a Leap Year
+1668 : Leap year
+1669 : Not a Leap Year
+1670 : Not a Leap Year
+1671 : Not a Leap Year
+1672 : Leap year
+1673 : Not a Leap Year
+1674 : Not a Leap Year
+1675 : Not a Leap Year
+1676 : Leap year
+1677 : Not a Leap Year
+1678 : Not a Leap Year
+1679 : Not a Leap Year
+1680 : Leap year
+1681 : Not a Leap Year
+1682 : Not a Leap Year
+1683 : Not a Leap Year
+1684 : Leap year
+1685 : Not a Leap Year
+1686 : Not a Leap Year
+1687 : Not a Leap Year
+1688 : Leap year
+1689 : Not a Leap Year
+1690 : Not a Leap Year
+1691 : Not a Leap Year
+1692 : Leap year
+1693 : Not a Leap Year
+1694 : Not a Leap Year
+1695 : Not a Leap Year
+1696 : Leap year
+1697 : Not a Leap Year
+1698 : Not a Leap Year
+1699 : Not a Leap Year
+1700 : Not a Leap Year
+1701 : Not a Leap Year
+1702 : Not a Leap Year
+1703 : Not a Leap Year
+1704 : Leap year
+1705 : Not a Leap Year
+1706 : Not a Leap Year
+1707 : Not a Leap Year
+1708 : Leap year
+1709 : Not a Leap Year
+1710 : Not a Leap Year
+1711 : Not a Leap Year
+1712 : Leap year
+1713 : Not a Leap Year
+1714 : Not a Leap Year
+1715 : Not a Leap Year
+1716 : Leap year
+1717 : Not a Leap Year
+1718 : Not a Leap Year
+1719 : Not a Leap Year
+1720 : Leap year
+1721 : Not a Leap Year
+1722 : Not a Leap Year
+1723 : Not a Leap Year
+1724 : Leap year
+1725 : Not a Leap Year
+1726 : Not a Leap Year
+1727 : Not a Leap Year
+1728 : Leap year
+1729 : Not a Leap Year
+1730 : Not a Leap Year
+1731 : Not a Leap Year
+1732 : Leap year
+1733 : Not a Leap Year
+1734 : Not a Leap Year
+1735 : Not a Leap Year
+1736 : Leap year
+1737 : Not a Leap Year
+1738 : Not a Leap Year
+1739 : Not a Leap Year
+1740 : Leap year
+1741 : Not a Leap Year
+1742 : Not a Leap Year
+1743 : Not a Leap Year
+1744 : Leap year
+1745 : Not a Leap Year
+1746 : Not a Leap Year
+1747 : Not a Leap Year
+1748 : Leap year
+1749 : Not a Leap Year
+1750 : Not a Leap Year
+1751 : Not a Leap Year
+1752 : Leap year
+1753 : Not a Leap Year
+1754 : Not a Leap Year
+1755 : Not a Leap Year
+1756 : Leap year
+1757 : Not a Leap Year
+1758 : Not a Leap Year
+1759 : Not a Leap Year
+1760 : Leap year
+1761 : Not a Leap Year
+1762 : Not a Leap Year
+1763 : Not a Leap Year
+1764 : Leap year
+1765 : Not a Leap Year
+1766 : Not a Leap Year
+1767 : Not a Leap Year
+1768 : Leap year
+1769 : Not a Leap Year
+1770 : Not a Leap Year
+1771 : Not a Leap Year
+1772 : Leap year
+1773 : Not a Leap Year
+1774 : Not a Leap Year
+1775 : Not a Leap Year
+1776 : Leap year
+1777 : Not a Leap Year
+1778 : Not a Leap Year
+1779 : Not a Leap Year
+1780 : Leap year
+1781 : Not a Leap Year
+1782 : Not a Leap Year
+1783 : Not a Leap Year
+1784 : Leap year
+1785 : Not a Leap Year
+1786 : Not a Leap Year
+1787 : Not a Leap Year
+1788 : Leap year
+1789 : Not a Leap Year
+1790 : Not a Leap Year
+1791 : Not a Leap Year
+1792 : Leap year
+1793 : Not a Leap Year
+1794 : Not a Leap Year
+1795 : Not a Leap Year
+1796 : Leap year
+1797 : Not a Leap Year
+1798 : Not a Leap Year
+1799 : Not a Leap Year
+1800 : Not a Leap Year
+1801 : Not a Leap Year
+1802 : Not a Leap Year
+1803 : Not a Leap Year
+1804 : Leap year
+1805 : Not a Leap Year
+1806 : Not a Leap Year
+1807 : Not a Leap Year
+1808 : Leap year
+1809 : Not a Leap Year
+1810 : Not a Leap Year
+1811 : Not a Leap Year
+1812 : Leap year
+1813 : Not a Leap Year
+1814 : Not a Leap Year
+1815 : Not a Leap Year
+1816 : Leap year
+1817 : Not a Leap Year
+1818 : Not a Leap Year
+1819 : Not a Leap Year
+1820 : Leap year
+1821 : Not a Leap Year
+1822 : Not a Leap Year
+1823 : Not a Leap Year
+1824 : Leap year
+1825 : Not a Leap Year
+1826 : Not a Leap Year
+1827 : Not a Leap Year
+1828 : Leap year
+1829 : Not a Leap Year
+1830 : Not a Leap Year
+1831 : Not a Leap Year
+1832 : Leap year
+1833 : Not a Leap Year
+1834 : Not a Leap Year
+1835 : Not a Leap Year
+1836 : Leap year
+1837 : Not a Leap Year
+1838 : Not a Leap Year
+1839 : Not a Leap Year
+1840 : Leap year
+1841 : Not a Leap Year
+1842 : Not a Leap Year
+1843 : Not a Leap Year
+1844 : Leap year
+1845 : Not a Leap Year
+1846 : Not a Leap Year
+1847 : Not a Leap Year
+1848 : Leap year
+1849 : Not a Leap Year
+1850 : Not a Leap Year
+1851 : Not a Leap Year
+1852 : Leap year
+1853 : Not a Leap Year
+1854 : Not a Leap Year
+1855 : Not a Leap Year
+1856 : Leap year
+1857 : Not a Leap Year
+1858 : Not a Leap Year
+1859 : Not a Leap Year
+1860 : Leap year
+1861 : Not a Leap Year
+1862 : Not a Leap Year
+1863 : Not a Leap Year
+1864 : Leap year
+1865 : Not a Leap Year
+1866 : Not a Leap Year
+1867 : Not a Leap Year
+1868 : Leap year
+1869 : Not a Leap Year
+1870 : Not a Leap Year
+1871 : Not a Leap Year
+1872 : Leap year
+1873 : Not a Leap Year
+1874 : Not a Leap Year
+1875 : Not a Leap Year
+1876 : Leap year
+1877 : Not a Leap Year
+1878 : Not a Leap Year
+1879 : Not a Leap Year
+1880 : Leap year
+1881 : Not a Leap Year
+1882 : Not a Leap Year
+1883 : Not a Leap Year
+1884 : Leap year
+1885 : Not a Leap Year
+1886 : Not a Leap Year
+1887 : Not a Leap Year
+1888 : Leap year
+1889 : Not a Leap Year
+1890 : Not a Leap Year
+1891 : Not a Leap Year
+1892 : Leap year
+1893 : Not a Leap Year
+1894 : Not a Leap Year
+1895 : Not a Leap Year
+1896 : Leap year
+1897 : Not a Leap Year
+1898 : Not a Leap Year
+1899 : Not a Leap Year
+1900 : Not a Leap Year
+1901 : Not a Leap Year
+1902 : Not a Leap Year
+1903 : Not a Leap Year
+1904 : Leap year
+1905 : Not a Leap Year
+1906 : Not a Leap Year
+1907 : Not a Leap Year
+1908 : Leap year
+1909 : Not a Leap Year
+1910 : Not a Leap Year
+1911 : Not a Leap Year
+1912 : Leap year
+1913 : Not a Leap Year
+1914 : Not a Leap Year
+1915 : Not a Leap Year
+1916 : Leap year
+1917 : Not a Leap Year
+1918 : Not a Leap Year
+1919 : Not a Leap Year
+1920 : Leap year
+1921 : Not a Leap Year
+1922 : Not a Leap Year
+1923 : Not a Leap Year
+1924 : Leap year
+1925 : Not a Leap Year
+1926 : Not a Leap Year
+1927 : Not a Leap Year
+1928 : Leap year
+1929 : Not a Leap Year
+1930 : Not a Leap Year
+1931 : Not a Leap Year
+1932 : Leap year
+1933 : Not a Leap Year
+1934 : Not a Leap Year
+1935 : Not a Leap Year
+1936 : Leap year
+1937 : Not a Leap Year
+1938 : Not a Leap Year
+1939 : Not a Leap Year
+1940 : Leap year
+1941 : Not a Leap Year
+1942 : Not a Leap Year
+1943 : Not a Leap Year
+1944 : Leap year
+1945 : Not a Leap Year
+1946 : Not a Leap Year
+1947 : Not a Leap Year
+1948 : Leap year
+1949 : Not a Leap Year
+1950 : Not a Leap Year
+1951 : Not a Leap Year
+1952 : Leap year
+1953 : Not a Leap Year
+1954 : Not a Leap Year
+1955 : Not a Leap Year
+1956 : Leap year
+1957 : Not a Leap Year
+1958 : Not a Leap Year
+1959 : Not a Leap Year
+1960 : Leap year
+1961 : Not a Leap Year
+1962 : Not a Leap Year
+1963 : Not a Leap Year
+1964 : Leap year
+1965 : Not a Leap Year
+1966 : Not a Leap Year
+1967 : Not a Leap Year
+1968 : Leap year
+1969 : Not a Leap Year
+1970 : Not a Leap Year
+1971 : Not a Leap Year
+1972 : Leap year
+1973 : Not a Leap Year
+1974 : Not a Leap Year
+1975 : Not a Leap Year
+1976 : Leap year
+1977 : Not a Leap Year
+1978 : Not a Leap Year
+1979 : Not a Leap Year
+1980 : Leap year
+1981 : Not a Leap Year
+1982 : Not a Leap Year
+1983 : Not a Leap Year
+1984 : Leap year
+1985 : Not a Leap Year
+1986 : Not a Leap Year
+1987 : Not a Leap Year
+1988 : Leap year
+1989 : Not a Leap Year
+1990 : Not a Leap Year
+1991 : Not a Leap Year
+1992 : Leap year
+1993 : Not a Leap Year
+1994 : Not a Leap Year
+1995 : Not a Leap Year
+1996 : Leap year
+1997 : Not a Leap Year
+1998 : Not a Leap Year
+1999 : Not a Leap Year
+2000 : Leap year
+2001 : Not a Leap Year
+2002 : Not a Leap Year
+2003 : Not a Leap Year
+2004 : Leap year
+2005 : Not a Leap Year
+2006 : Not a Leap Year
+2007 : Not a Leap Year
+2008 : Leap year
+2009 : Not a Leap Year
+2010 : Not a Leap Year
+2011 : Not a Leap Year
+2012 : Leap year
+2013 : Not a Leap Year
+2014 : Not a Leap Year
+2015 : Not a Leap Year
+2016 : Leap year
+2017 : Not a Leap Year
+2018 : Not a Leap Year
+2019 : Not a Leap Year
+2020 : Leap year
+2021 : Not a Leap Year
+2022 : Not a Leap Year
+2023 : Not a Leap Year
+2024 : Leap year
+2025 : Not a Leap Year
+2026 : Not a Leap Year
+2027 : Not a Leap Year
+2028 : Leap year
+2029 : Not a Leap Year
+2030 : Not a Leap Year
+2031 : Not a Leap Year
+2032 : Leap year
+2033 : Not a Leap Year
+2034 : Not a Leap Year
+2035 : Not a Leap Year
+2036 : Leap year
+2037 : Not a Leap Year
+2038 : Not a Leap Year
+2039 : Not a Leap Year
+2040 : Leap year
+2041 : Not a Leap Year
+2042 : Not a Leap Year
+2043 : Not a Leap Year
+2044 : Leap year
+2045 : Not a Leap Year
+2046 : Not a Leap Year
+2047 : Not a Leap Year
+2048 : Leap year
+2049 : Not a Leap Year
+2050 : Not a Leap Year
+2051 : Not a Leap Year
+2052 : Leap year
+2053 : Not a Leap Year
+2054 : Not a Leap Year
+2055 : Not a Leap Year
+2056 : Leap year
+2057 : Not a Leap Year
+2058 : Not a Leap Year
+2059 : Not a Leap Year
+2060 : Leap year
+2061 : Not a Leap Year
+2062 : Not a Leap Year
+2063 : Not a Leap Year
+2064 : Leap year
+2065 : Not a Leap Year
+2066 : Not a Leap Year
+2067 : Not a Leap Year
+2068 : Leap year
+2069 : Not a Leap Year
+2070 : Not a Leap Year
+2071 : Not a Leap Year
+2072 : Leap year
+2073 : Not a Leap Year
+2074 : Not a Leap Year
+2075 : Not a Leap Year
+2076 : Leap year
+2077 : Not a Leap Year
+2078 : Not a Leap Year
+2079 : Not a Leap Year
+2080 : Leap year
+2081 : Not a Leap Year
+2082 : Not a Leap Year
+2083 : Not a Leap Year
+2084 : Leap year
+2085 : Not a Leap Year
+2086 : Not a Leap Year
+2087 : Not a Leap Year
+2088 : Leap year
+2089 : Not a Leap Year
+2090 : Not a Leap Year
+2091 : Not a Leap Year
+2092 : Leap year
+2093 : Not a Leap Year
+2094 : Not a Leap Year
+2095 : Not a Leap Year
+2096 : Leap year
+2097 : Not a Leap Year
+2098 : Not a Leap Year
+2099 : Not a Leap Year
+2100 : Not a Leap Year
+2101 : Not a Leap Year
+2102 : Not a Leap Year
+2103 : Not a Leap Year
+2104 : Leap year
+2105 : Not a Leap Year
+2106 : Not a Leap Year
+2107 : Not a Leap Year
+2108 : Leap year
+2109 : Not a Leap Year
+2110 : Not a Leap Year
+2111 : Not a Leap Year
+2112 : Leap year
+2113 : Not a Leap Year
+2114 : Not a Leap Year
+2115 : Not a Leap Year
+2116 : Leap year
+2117 : Not a Leap Year
+2118 : Not a Leap Year
+2119 : Not a Leap Year
+2120 : Leap year
+2121 : Not a Leap Year
+2122 : Not a Leap Year
+2123 : Not a Leap Year
+2124 : Leap year
+2125 : Not a Leap Year
+2126 : Not a Leap Year
+2127 : Not a Leap Year
+2128 : Leap year
+2129 : Not a Leap Year
+2130 : Not a Leap Year
+2131 : Not a Leap Year
+2132 : Leap year
+2133 : Not a Leap Year
+2134 : Not a Leap Year
+2135 : Not a Leap Year
+2136 : Leap year
+2137 : Not a Leap Year
+2138 : Not a Leap Year
+2139 : Not a Leap Year
+2140 : Leap year
+2141 : Not a Leap Year
+2142 : Not a Leap Year
+2143 : Not a Leap Year
+2144 : Leap year
+2145 : Not a Leap Year
+2146 : Not a Leap Year
+2147 : Not a Leap Year
+2148 : Leap year
+2149 : Not a Leap Year
+2150 : Not a Leap Year
+2151 : Not a Leap Year
+2152 : Leap year
+2153 : Not a Leap Year
+2154 : Not a Leap Year
+2155 : Not a Leap Year
+2156 : Leap year
+2157 : Not a Leap Year
+2158 : Not a Leap Year
+2159 : Not a Leap Year
+2160 : Leap year
+2161 : Not a Leap Year
+2162 : Not a Leap Year
+2163 : Not a Leap Year
+2164 : Leap year
+2165 : Not a Leap Year
+2166 : Not a Leap Year
+2167 : Not a Leap Year
+2168 : Leap year
+2169 : Not a Leap Year
+2170 : Not a Leap Year
+2171 : Not a Leap Year
+2172 : Leap year
+2173 : Not a Leap Year
+2174 : Not a Leap Year
+2175 : Not a Leap Year
+2176 : Leap year
+2177 : Not a Leap Year
+2178 : Not a Leap Year
+2179 : Not a Leap Year
+2180 : Leap year
+2181 : Not a Leap Year
+2182 : Not a Leap Year
+2183 : Not a Leap Year
+2184 : Leap year
+2185 : Not a Leap Year
+2186 : Not a Leap Year
+2187 : Not a Leap Year
+2188 : Leap year
+2189 : Not a Leap Year
+2190 : Not a Leap Year
+2191 : Not a Leap Year
+2192 : Leap year
+2193 : Not a Leap Year
+2194 : Not a Leap Year
+2195 : Not a Leap Year
+2196 : Leap year
+2197 : Not a Leap Year
+2198 : Not a Leap Year
+2199 : Not a Leap Year
+2200 : Not a Leap Year
+2201 : Not a Leap Year
+2202 : Not a Leap Year
+2203 : Not a Leap Year
+2204 : Leap year
+2205 : Not a Leap Year
+2206 : Not a Leap Year
+2207 : Not a Leap Year
+2208 : Leap year
+2209 : Not a Leap Year
+2210 : Not a Leap Year
+2211 : Not a Leap Year
+2212 : Leap year
+2213 : Not a Leap Year
+2214 : Not a Leap Year
+2215 : Not a Leap Year
+2216 : Leap year
+2217 : Not a Leap Year
+2218 : Not a Leap Year
+2219 : Not a Leap Year
+2220 : Leap year
+2221 : Not a Leap Year
+2222 : Not a Leap Year
+2223 : Not a Leap Year
+2224 : Leap year
+2225 : Not a Leap Year
+2226 : Not a Leap Year
+2227 : Not a Leap Year
+2228 : Leap year
+2229 : Not a Leap Year
+2230 : Not a Leap Year
+2231 : Not a Leap Year
+2232 : Leap year
+2233 : Not a Leap Year
+2234 : Not a Leap Year
+2235 : Not a Leap Year
+2236 : Leap year
+2237 : Not a Leap Year
+2238 : Not a Leap Year
+2239 : Not a Leap Year
+2240 : Leap year
+2241 : Not a Leap Year
+2242 : Not a Leap Year
+2243 : Not a Leap Year
+2244 : Leap year
+2245 : Not a Leap Year
+2246 : Not a Leap Year
+2247 : Not a Leap Year
+2248 : Leap year
+2249 : Not a Leap Year
+2250 : Not a Leap Year
+2251 : Not a Leap Year
+2252 : Leap year
+2253 : Not a Leap Year
+2254 : Not a Leap Year
+2255 : Not a Leap Year
+2256 : Leap year
+2257 : Not a Leap Year
+2258 : Not a Leap Year
+2259 : Not a Leap Year
+2260 : Leap year
+2261 : Not a Leap Year
+2262 : Not a Leap Year
+2263 : Not a Leap Year
+2264 : Leap year
+2265 : Not a Leap Year
+2266 : Not a Leap Year
+2267 : Not a Leap Year
+2268 : Leap year
+2269 : Not a Leap Year
+2270 : Not a Leap Year
+2271 : Not a Leap Year
+2272 : Leap year
+2273 : Not a Leap Year
+2274 : Not a Leap Year
+2275 : Not a Leap Year
+2276 : Leap year
+2277 : Not a Leap Year
+2278 : Not a Leap Year
+2279 : Not a Leap Year
+2280 : Leap year
+2281 : Not a Leap Year
+2282 : Not a Leap Year
+2283 : Not a Leap Year
+2284 : Leap year
+2285 : Not a Leap Year
+2286 : Not a Leap Year
+2287 : Not a Leap Year
+2288 : Leap year
+2289 : Not a Leap Year
+2290 : Not a Leap Year
+2291 : Not a Leap Year
+2292 : Leap year
+2293 : Not a Leap Year
+2294 : Not a Leap Year
+2295 : Not a Leap Year
+2296 : Leap year
+2297 : Not a Leap Year
+2298 : Not a Leap Year
+2299 : Not a Leap Year
+2300 : Not a Leap Year
+2301 : Not a Leap Year
+2302 : Not a Leap Year
+2303 : Not a Leap Year
+2304 : Leap year
+2305 : Not a Leap Year
+2306 : Not a Leap Year
+2307 : Not a Leap Year
+2308 : Leap year
+2309 : Not a Leap Year
+2310 : Not a Leap Year
+2311 : Not a Leap Year
+2312 : Leap year
+2313 : Not a Leap Year
+2314 : Not a Leap Year
+2315 : Not a Leap Year
+2316 : Leap year
+2317 : Not a Leap Year
+2318 : Not a Leap Year
+2319 : Not a Leap Year
+2320 : Leap year
+2321 : Not a Leap Year
+2322 : Not a Leap Year
+2323 : Not a Leap Year
+2324 : Leap year
+2325 : Not a Leap Year
+2326 : Not a Leap Year
+2327 : Not a Leap Year
+2328 : Leap year
+2329 : Not a Leap Year
+2330 : Not a Leap Year
+2331 : Not a Leap Year
+2332 : Leap year
+2333 : Not a Leap Year
+2334 : Not a Leap Year
+2335 : Not a Leap Year
+2336 : Leap year
+2337 : Not a Leap Year
+2338 : Not a Leap Year
+2339 : Not a Leap Year
+2340 : Leap year
+2341 : Not a Leap Year
+2342 : Not a Leap Year
+2343 : Not a Leap Year
+2344 : Leap year
+2345 : Not a Leap Year
+2346 : Not a Leap Year
+2347 : Not a Leap Year
+2348 : Leap year
+2349 : Not a Leap Year
+2350 : Not a Leap Year
+2351 : Not a Leap Year
+2352 : Leap year
+2353 : Not a Leap Year
+2354 : Not a Leap Year
+2355 : Not a Leap Year
+2356 : Leap year
+2357 : Not a Leap Year
+2358 : Not a Leap Year
+2359 : Not a Leap Year
+2360 : Leap year
+2361 : Not a Leap Year
+2362 : Not a Leap Year
+2363 : Not a Leap Year
+2364 : Leap year
+2365 : Not a Leap Year
+2366 : Not a Leap Year
+2367 : Not a Leap Year
+2368 : Leap year
+2369 : Not a Leap Year
+2370 : Not a Leap Year
+2371 : Not a Leap Year
+2372 : Leap year
+2373 : Not a Leap Year
+2374 : Not a Leap Year
+2375 : Not a Leap Year
+2376 : Leap year
+2377 : Not a Leap Year
+2378 : Not a Leap Year
+2379 : Not a Leap Year
+2380 : Leap year
+2381 : Not a Leap Year
+2382 : Not a Leap Year
+2383 : Not a Leap Year
+2384 : Leap year
+2385 : Not a Leap Year
+2386 : Not a Leap Year
+2387 : Not a Leap Year
+2388 : Leap year
+2389 : Not a Leap Year
+2390 : Not a Leap Year
+2391 : Not a Leap Year
+2392 : Leap year
+2393 : Not a Leap Year
+2394 : Not a Leap Year
+2395 : Not a Leap Year
+2396 : Leap year
+2397 : Not a Leap Year
+2398 : Not a Leap Year
+2399 : Not a Leap Year
+2400 : Leap year
+2401 : Not a Leap Year
+2402 : Not a Leap Year
+2403 : Not a Leap Year
+2404 : Leap year
+2405 : Not a Leap Year
+2406 : Not a Leap Year
+2407 : Not a Leap Year
+2408 : Leap year
+2409 : Not a Leap Year
+2410 : Not a Leap Year
+2411 : Not a Leap Year
+2412 : Leap year
+2413 : Not a Leap Year
+2414 : Not a Leap Year
+2415 : Not a Leap Year
+2416 : Leap year
+2417 : Not a Leap Year
+2418 : Not a Leap Year
+2419 : Not a Leap Year
+2420 : Leap year
+2421 : Not a Leap Year
+2422 : Not a Leap Year
+2423 : Not a Leap Year
+2424 : Leap year
+2425 : Not a Leap Year
+2426 : Not a Leap Year
+2427 : Not a Leap Year
+2428 : Leap year
+2429 : Not a Leap Year
+2430 : Not a Leap Year
+2431 : Not a Leap Year
+2432 : Leap year
+2433 : Not a Leap Year
+2434 : Not a Leap Year
+2435 : Not a Leap Year
+2436 : Leap year
+2437 : Not a Leap Year
+2438 : Not a Leap Year
+2439 : Not a Leap Year
+2440 : Leap year
+2441 : Not a Leap Year
+2442 : Not a Leap Year
+2443 : Not a Leap Year
+2444 : Leap year
+2445 : Not a Leap Year
+2446 : Not a Leap Year
+2447 : Not a Leap Year
+2448 : Leap year
+2449 : Not a Leap Year
+2450 : Not a Leap Year
+2451 : Not a Leap Year
+2452 : Leap year
+2453 : Not a Leap Year
+2454 : Not a Leap Year
+2455 : Not a Leap Year
+2456 : Leap year
+2457 : Not a Leap Year
+2458 : Not a Leap Year
+2459 : Not a Leap Year
+2460 : Leap year
+2461 : Not a Leap Year
+2462 : Not a Leap Year
+2463 : Not a Leap Year
+2464 : Leap year
+2465 : Not a Leap Year
+2466 : Not a Leap Year
+2467 : Not a Leap Year
+2468 : Leap year
+2469 : Not a Leap Year
+2470 : Not a Leap Year
+2471 : Not a Leap Year
+2472 : Leap year
+2473 : Not a Leap Year
+2474 : Not a Leap Year
+2475 : Not a Leap Year
+2476 : Leap year
+2477 : Not a Leap Year
+2478 : Not a Leap Year
+2479 : Not a Leap Year
+2480 : Leap year
+2481 : Not a Leap Year
+2482 : Not a Leap Year
+2483 : Not a Leap Year
+2484 : Leap year
+2485 : Not a Leap Year
+2486 : Not a Leap Year
+2487 : Not a Leap Year
+2488 : Leap year
+2489 : Not a Leap Year
+2490 : Not a Leap Year
+2491 : Not a Leap Year
+2492 : Leap year
+2493 : Not a Leap Year
+2494 : Not a Leap Year
+2495 : Not a Leap Year
+2496 : Leap year
+2497 : Not a Leap Year
+2498 : Not a Leap Year
+2499 : Not a Leap Year
+2500 : Not a Leap Year
+2501 : Not a Leap Year
+2502 : Not a Leap Year
+2503 : Not a Leap Year
+2504 : Leap year
+2505 : Not a Leap Year
+2506 : Not a Leap Year
+2507 : Not a Leap Year
+2508 : Leap year
+2509 : Not a Leap Year
+2510 : Not a Leap Year
+2511 : Not a Leap Year
+2512 : Leap year
+2513 : Not a Leap Year
+2514 : Not a Leap Year
+2515 : Not a Leap Year
+2516 : Leap year
+2517 : Not a Leap Year
+2518 : Not a Leap Year
+2519 : Not a Leap Year
+2520 : Leap year
+2521 : Not a Leap Year
+2522 : Not a Leap Year
+2523 : Not a Leap Year
+2524 : Leap year
+2525 : Not a Leap Year
+2526 : Not a Leap Year
+2527 : Not a Leap Year
+2528 : Leap year
+2529 : Not a Leap Year
+2530 : Not a Leap Year
+2531 : Not a Leap Year
+2532 : Leap year
+2533 : Not a Leap Year
+2534 : Not a Leap Year
+2535 : Not a Leap Year
+2536 : Leap year
+2537 : Not a Leap Year
+2538 : Not a Leap Year
+2539 : Not a Leap Year
+2540 : Leap year
+2541 : Not a Leap Year
+2542 : Not a Leap Year
+2543 : Not a Leap Year
+2544 : Leap year
+2545 : Not a Leap Year
+2546 : Not a Leap Year
+2547 : Not a Leap Year
+2548 : Leap year
+2549 : Not a Leap Year
+2550 : Not a Leap Year
+2551 : Not a Leap Year
+2552 : Leap year
+2553 : Not a Leap Year
+2554 : Not a Leap Year
+2555 : Not a Leap Year
+2556 : Leap year
+2557 : Not a Leap Year
+2558 : Not a Leap Year
+2559 : Not a Leap Year
+2560 : Leap year
+2561 : Not a Leap Year
+2562 : Not a Leap Year
+2563 : Not a Leap Year
+2564 : Leap year
+2565 : Not a Leap Year
+2566 : Not a Leap Year
+2567 : Not a Leap Year
+2568 : Leap year
+2569 : Not a Leap Year
+2570 : Not a Leap Year
+2571 : Not a Leap Year
+2572 : Leap year
+2573 : Not a Leap Year
+2574 : Not a Leap Year
+2575 : Not a Leap Year
+2576 : Leap year
+2577 : Not a Leap Year
+2578 : Not a Leap Year
+2579 : Not a Leap Year
+2580 : Leap year
+2581 : Not a Leap Year
+2582 : Not a Leap Year
+2583 : Not a Leap Year
+2584 : Leap year
+2585 : Not a Leap Year
+2586 : Not a Leap Year
+2587 : Not a Leap Year
+2588 : Leap year
+2589 : Not a Leap Year
+2590 : Not a Leap Year
+2591 : Not a Leap Year
+2592 : Leap year
+2593 : Not a Leap Year
+2594 : Not a Leap Year
+2595 : Not a Leap Year
+2596 : Leap year
+2597 : Not a Leap Year
+2598 : Not a Leap Year
+2599 : Not a Leap Year
+2600 : Not a Leap Year
+2601 : Not a Leap Year
+2602 : Not a Leap Year
+2603 : Not a Leap Year
+2604 : Leap year
+2605 : Not a Leap Year
+2606 : Not a Leap Year
+2607 : Not a Leap Year
+2608 : Leap year
+2609 : Not a Leap Year
+2610 : Not a Leap Year
+2611 : Not a Leap Year
+2612 : Leap year
+2613 : Not a Leap Year
+2614 : Not a Leap Year
+2615 : Not a Leap Year
+2616 : Leap year
+2617 : Not a Leap Year
+2618 : Not a Leap Year
+2619 : Not a Leap Year
+2620 : Leap year
+2621 : Not a Leap Year
+2622 : Not a Leap Year
+2623 : Not a Leap Year
+2624 : Leap year
+2625 : Not a Leap Year
+2626 : Not a Leap Year
+2627 : Not a Leap Year
+2628 : Leap year
+2629 : Not a Leap Year
+2630 : Not a Leap Year
+2631 : Not a Leap Year
+2632 : Leap year
+2633 : Not a Leap Year
+2634 : Not a Leap Year
+2635 : Not a Leap Year
+2636 : Leap year
+2637 : Not a Leap Year
+2638 : Not a Leap Year
+2639 : Not a Leap Year
+2640 : Leap year
+2641 : Not a Leap Year
+2642 : Not a Leap Year
+2643 : Not a Leap Year
+2644 : Leap year
+2645 : Not a Leap Year
+2646 : Not a Leap Year
+2647 : Not a Leap Year
+2648 : Leap year
+2649 : Not a Leap Year
+2650 : Not a Leap Year
+2651 : Not a Leap Year
+2652 : Leap year
+2653 : Not a Leap Year
+2654 : Not a Leap Year
+2655 : Not a Leap Year
+2656 : Leap year
+2657 : Not a Leap Year
+2658 : Not a Leap Year
+2659 : Not a Leap Year
+2660 : Leap year
+2661 : Not a Leap Year
+2662 : Not a Leap Year
+2663 : Not a Leap Year
+2664 : Leap year
+2665 : Not a Leap Year
+2666 : Not a Leap Year
+2667 : Not a Leap Year
+2668 : Leap year
+2669 : Not a Leap Year
+2670 : Not a Leap Year
+2671 : Not a Leap Year
+2672 : Leap year
+2673 : Not a Leap Year
+2674 : Not a Leap Year
+2675 : Not a Leap Year
+2676 : Leap year
+2677 : Not a Leap Year
+2678 : Not a Leap Year
+2679 : Not a Leap Year
+2680 : Leap year
+2681 : Not a Leap Year
+2682 : Not a Leap Year
+2683 : Not a Leap Year
+2684 : Leap year
+2685 : Not a Leap Year
+2686 : Not a Leap Year
+2687 : Not a Leap Year
+2688 : Leap year
+2689 : Not a Leap Year
+2690 : Not a Leap Year
+2691 : Not a Leap Year
+2692 : Leap year
+2693 : Not a Leap Year
+2694 : Not a Leap Year
+2695 : Not a Leap Year
+2696 : Leap year
+2697 : Not a Leap Year
+2698 : Not a Leap Year
+2699 : Not a Leap Year

@@ -1,9 +1,8 @@
 // 14. จงเขียนโปรแกรมรับตัวเลขจำนวนเต็ม แล้วตรวจสอบว่าเป็น Palindrome หรือไม่ (เช่น
 // 121, 1331)
 
-#include <iostream>
-#include <string>
 
+#include <iostream>
 using namespace std;
 
 int main(){
