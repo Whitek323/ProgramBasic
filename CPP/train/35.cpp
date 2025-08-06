@@ -3,7 +3,33 @@ using namespace std;
 
 float totalCost(float d,float l){
     float a = 1,b=10;
-    return a*d+b*l;
+    return (a*d)+(b*l);
+}
+void findExit(
+    float arr[13][3],
+    char node[10],
+    int arr_row,
+    float enter
+){
+    // int size_in_row = sizeof(arr[0])/sizeof(arr[0][0]);
+    arr_row = 3;
+    for(int i = 0;i<arr_row;i++){
+        // int inner_exit = arr[i][1];
+        if(arr[i][0]==enter){
+            cout << node[(int)arr[i][0]] << ":" << arr[i][0] << " -> ";
+            cout << node[(int)arr[i][1]] << ":" << arr[i][1] << " -> ";
+            if(i==arr_row-1){
+
+                cout << endl;
+            }
+            
+            findExit(arr,node,arr_row,arr[i][1]);
+            
+
+            // cout << node[(int)arr[i][1]] << ":" << arr[i][0] << " -> ";
+        }
+        
+    };
 }
 int main(int argc, char const *argv[])
 {
@@ -26,13 +52,15 @@ int main(int argc, char const *argv[])
         {5,9,totalCost(6,0.7)}
     };
     int row = sizeof(arr) / sizeof(arr[0]);
-    int size_in_row = sizeof(arr[0])/sizeof(arr[0][0]);
-    cout << "row : "<< row << endl << "col :"<< size_in_row;
 
+    // findExit(arr,node,row,0);
     for(int i = 0;i<row;i++){
-        cout << arr[i][0] << endl;
-        
-    };
+        cout << node[(int)arr[i][0]] << " -> ";
+        cout << node[(int)arr[i][1]] << " : ";
+        cout << arr[i][2];
+
+        cout << endl;
+    }
     cout << endl;
     return 0;
 }
