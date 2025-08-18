@@ -11,7 +11,7 @@ int main()
 {
     string car[] = {"Hello", "World", "Cat"};
 
-    cout << p_car << endl;
+    cout << car << endl;
 
     return 0;
 }
